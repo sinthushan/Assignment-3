@@ -29,5 +29,5 @@ The metrics for Whales, algo, and S&P 500 portfolios change in the second portio
 
 When preparing the data extracted from google I skipped the portion which asked us to reset the index and pivot becuase I felt that with the format of the output these steps were unnecessary. Looking at the sample output from the starter code and what i output when I create the data frames I think you can see what I mean (again my bad if I am totaly wrong here):
 
-![My code](Images/mycode.png?raw=true "My Code")
-![example code](Images/sampleCode.png?raw=true "Example Code")
+![My code](Images/mycode.PNG?raw=true "My Code")
+![example code](Images/sampleCode.PNG?raw=true "Example Code")
