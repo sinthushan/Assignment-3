@@ -3,7 +3,7 @@
 ### The notebook to run is located in the Starter_Code folder and is called "whale_analysis.ipynb"
 ### initial CSV files are located in Starter_Code->Resources
 ### CSV files from google finance extract located in "Resources - Google Sheets" folder
-### <span style="color:red"> Please note that all Answers to the questions are written in red font after the code output <span>
+### <span style="color:red"> Please note that all Answers to the questions are written in red font after the code output (this is only tru if opened in jupyter lab doesn't seem to work in github) <span>
 ***
 ## Program Desciption
 
@@ -29,5 +29,5 @@ The metrics for Whales, algo, and S&P 500 portfolios change in the second portio
 
 When preparing the data extracted from google I skipped the portion which asked us to reset the index and pivot becuase I felt that with the format of the output these steps were unnecessary. Looking at the sample output from the starter code and what i output when I create the data frames I think you can see what I mean (again my bad if I am totaly wrong here):
 
-![My code](Images/mycode.png "My Code")
-![example code](Images/sampleCode.png "Example Code")
+![My code](Images/mycode.png?raw=true "My Code")
+![example code](Images/sampleCode.png?raw=true "Example Code")
